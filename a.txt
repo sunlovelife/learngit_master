@@ -7,8 +7,5 @@ ccccccccccccccccccccccccc
 ccccccccccccc
 xxxxxxxxxxxx
 xxxxxxxxxxxxxxx
-<<<<<<< Updated upstream
 222222222222222
-=======
 111111111111111
->>>>>>> Stashed changes
